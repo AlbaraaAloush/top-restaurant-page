@@ -21,6 +21,7 @@ function createAbout() {
               a latte without his hands trembling from the sheer terror of his own accidental success.`;
 
   contentDiv.appendChild(heading);
+
   contentDiv.appendChild(paragraph);
 }
 
